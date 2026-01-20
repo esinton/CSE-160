@@ -1,0 +1,3 @@
+This assignment was very fun to actually see a working webpage so quickly!
+
+I have very limited prior coding experience with HTML/Javascript so I used ChatGPT to help learn the concepts, and used it to clarify syntax/technical details of implementing specific webpage things. Some of the technical and error checking code examples it gave I used directly, but I mostly coded on my own using it as reference.
